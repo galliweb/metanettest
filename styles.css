@@ -1,4 +1,21 @@
 html {
   font-size: 62.5%;
 }
+
+header {
+  height: 120px;
+  color: white;
+  background: black;
+}
+
+main {
+  height: 500px;
+  background: yellow;
+  color: black;
+}
+
+footer {
+  height: 80px;
+  background: black;
+}
 /*# sourceMappingURL=styles.css.map */
